@@ -20,18 +20,18 @@ The attendance data is stored in a normalized structure rather than creating a n
 
 The `students` table stores the roll numbers of students. The roll number itself acts as the student ID.
 
-| Roll |
-|---:|
-| 101 |
-| 102 |
-| 103 |
-| 104 |
-| 105 |
-| 106 |
-| 107 |
-| 108 |
-| 109 |
-| 110 |
+| Roll | Name |
+|---:|---:|
+| 101 | Student_101 |
+| 102 | Student_102 |
+| 103 | Student_103 |
+| 104 | Student_104 |
+| 105 | Student_105 |
+| 106 | Student_106 |
+| 107 | Student_107 |
+| 108 | Student_108 |
+| 109 | Student_109 |
+| 110 | Student_110 |
 
 ### `attendance` table
 
