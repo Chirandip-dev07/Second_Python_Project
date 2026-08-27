@@ -100,9 +100,7 @@ The program can display it in the following format:
 
 The register can also be exported as `attendance_register.csv`.
 
-## How the Database Works
 
-Instead of modifying the table structure every day:
 
 ```text
 Old approach:
