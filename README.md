@@ -99,9 +99,3 @@ The program can display it in the following format:
 | 29_08_2026 | 1 | 0 | 1 | 1 |
 
 The register can also be exported as `attendance_register.csv`.
-
-
-
-```text
-Old approach:
-New day → ALTER TABLE → Add a new date column
